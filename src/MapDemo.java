@@ -5,10 +5,10 @@ class Player{
 	String team;
 	int age;
 	
-	Player(int jn,String name,String team,int age)
+	Player(int jn,String n,String team,int age)
 	{
 		this.jn=jn;
-		this.name=name;
+		this.name=n;
 		this.team=team;
 		this.age=age;
 	}
